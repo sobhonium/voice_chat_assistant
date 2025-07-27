@@ -2,6 +2,10 @@
 
 A Streamlit application that allows you to record voice, convert it to text using OpenAI Whisper, and get AI responses from Groq LLM.
 
+
+![image](image2.png)
+
+
 ## Features
 
 - 🎙️ **Voice Recording**: Record audio with customizable duration and sample rate
